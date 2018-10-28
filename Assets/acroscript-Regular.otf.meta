@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 73de4237dc8a606419f56a8754b1955d
+timeCreated: 1497194519
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: acroscript
+  fontNames:
+  - acroscript
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
